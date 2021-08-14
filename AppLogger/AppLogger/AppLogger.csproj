@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Company>Zzappit</Company>
+    <Authors>Sahan Fernando</Authors>
+    <PackageId>AppLogger_Zzappit</PackageId>
+    <Description>App logger package generated for technical discussions (Zzappit)</Description>
+  </PropertyGroup>
+
+</Project>
